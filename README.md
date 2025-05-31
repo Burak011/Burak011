@@ -1,5 +1,7 @@
 <!-- Profil Bannerı -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00b4d8,100:0096c7&amp;height=180&amp;section=header&amp;text=Doğukan%20Burak%20Çelikten&amp;fontSize=38&amp;fontAlignY=35&amp;desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Cybersecurity%20Enthusiast&amp;descSize=18&amp;descAlignY=55" alt="Doğukan Burak Çelikten Banner" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Doğukan%20Burak%20Çelikten&fontSize=40&fontAlign=50&fontColor=fff" alt="banner" />
+</p>
 
 # 👋 Hi there, I'm Doğukan Burak Çelikten
 

@@ -46,7 +46,7 @@
 
 ## 📫 Reach Me
 
-- ✉️ dogukanburakcelikten@gmail.com
+- ✉️ dcelikten01@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/do%C4%9Fukan-burak-%C3%A7elikten-a261aa328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - [Instagram](https://www.instagram.com/dcelikten01?igsh=ZDV5ZWw0amdkdnph&utm_source=qr)
 

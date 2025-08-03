@@ -7,24 +7,24 @@
 
 ---
 
-## 🇹🇷 Türkçe Hakkımda
+## 🇹🇷Hakkımda
 
 - 💻 Bilgisayar Mühendisliği öğrencisiyim.
 - 🚀 Full-Stack Developer, Yapay Zeka & Siber Güvenlik meraklısı.
 - 🎥 [Kariyer Peşinde](https://www.youtube.com/@kariyerpesinde) YouTube & içerik üretimi.
 - 🧑‍💻 Açık kaynak, yazılım, teknoloji ve girişimcilik alanlarına ilgi duyuyorum.
-- 🌐 [Web sitem](#) <!-- Web sitesi hazırsa linkini koy! -->
+- 🌐 [Web sitem](https://www.dogukanburakcelikten.com/) <!-- Web sitesi hazırsa linkini koy! -->
 - 💬 Soruların için bana her zaman ulaşabilirsin!
 
 ---
 
-## 🇬🇧 About Me (English)
+## 🇬🇧 About Me
 
 - 💻 I'm a Computer Engineering student.
 - 🚀 Full-Stack Developer, AI & Cybersecurity enthusiast.
 - 🎥 [Content creator on YouTube (Kariyer Peşinde)](https://www.youtube.com/@kariyerpesinde)
 - 🧑‍💻 Passionate about open-source, software, tech & entrepreneurship.
-- 🌐 [My Website](#) <!-- Website link here -->
+- 🌐 [My Website](https://www.dogukanburakcelikten.com/) <!-- Website link here -->
 - 💬 Feel free to reach out for collaboration or questions!
 
 ---

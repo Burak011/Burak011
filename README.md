@@ -59,7 +59,7 @@
 ## 📫 Reach Me
 
 <p>
-  <a href="mailto:dcelikten01@gmail.com"><img src="https://img.shields.io/badge/Email-dcelikten01@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:info@dogukanburakcelikten.com"><img src="https://img.shields.io/badge/Email-info@dogukanburakcelikten.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/do%C4%9Fukan-burak-%C3%A7elikten-a261aa328" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Doğukan%20Burak%20Çelikten-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://www.instagram.com/dcelikten01/" target="_blank"><img src="https://img.shields.io/badge/Instagram-dcelikten01-purple?style=for-the-badge&logo=instagram"></a>
 </p>

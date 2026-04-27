@@ -9,9 +9,9 @@
 
 ## 🇹🇷Hakkımda
 
+- 👨🏼‍💼 CO-FOUNDER & CTO at LOTB.
 - 💻 Bilgisayar Mühendisliği öğrencisiyim.
 - 🚀 Full-Stack Developer, Yapay Zeka & Siber Güvenlik meraklısı.
-- 🎥 [Kariyer Peşinde](https://www.youtube.com/@kariyerpesinde) YouTube & içerik üretimi.
 - 🧑‍💻 Açık kaynak, yazılım, teknoloji ve girişimcilik alanlarına ilgi duyuyorum.
 - 🌐 [Web sitem](https://www.dogukanburakcelikten.com/) <!-- Web sitesi hazırsa linkini koy! -->
 - 💬 Soruların için bana her zaman ulaşabilirsin!
@@ -20,9 +20,9 @@
 
 ## 🇬🇧 About Me
 
+- 👨🏼‍💼 CO-FOUNDER & CTO at LOTB.
 - 💻 I'm a Computer Engineering student.
 - 🚀 Full-Stack Developer, AI & Cybersecurity enthusiast.
-- 🎥 [Content creator on YouTube (Kariyer Peşinde)](https://www.youtube.com/@kariyerpesinde)
 - 🧑‍💻 Passionate about open-source, software, tech & entrepreneurship.
 - 🌐 [My Website](https://www.dogukanburakcelikten.com/) <!-- Website link here -->
 - 💬 Feel free to reach out for collaboration or questions!
@@ -32,9 +32,7 @@
 ## 🗺️ Roadmap & Goals | Amaçlarım
 
 - 📝 Launch a professional portfolio & blog site in 2025.
-- 💡 Contribute to a new open-source project every month.
 - 🚀 Learn new technologies (AI, Web3, Docker, DevOps).
-- 🌟 Reach 10k+ subscribers for Kariyer Peşinde.
 
 ---
 
